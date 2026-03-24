@@ -6,6 +6,7 @@ This project aims to improves prior case retrieval of legal documents by combini
 ---
 
 ## Phase 1: Reproducing the "Segment First, Retrieve Better" (TraceRetriever) Pipeline
+- producing rhetorical annotations on IL-PCR data complete. 
 
 ## Phase 2: Using Rhetorically annotated data and models from the "LegalSeg" paper and integrating with the retrieval models.
 
