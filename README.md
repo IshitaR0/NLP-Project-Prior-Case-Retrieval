@@ -59,6 +59,8 @@ NLP-PROJECT-PRIOR-CASE-RETRIEVAL/
 │   │   │   └── val_queries.txt
 │   │   └── code.py                    
 │   └── README.md
+├── Trace Retriever Implementation/
+│   ├── CODES.....a few more
 └── README.md
 ```
 ---
