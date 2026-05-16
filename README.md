@@ -1,3 +1,4 @@
+(Disclaimer: no change has been made to code. only the correct one has been uploaded over the earlier version. sorry for the late realization.)
 # Prior Case Retrieval with Rhetorically Annotated LegalSeg Data
 
 > A two-phase NLP pipeline for Prior Case Retrieval (PCR) on IL-PCR data, leveraging rhetorical segmentation via a Hier-BiLSTM CRF model trained on the LegalSeg corpus.
